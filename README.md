@@ -1,2 +1,2 @@
-# Belajar Membuat Front-End Web untuk Pemula
-Submission (proyek akhir) membuat sebuah website yang menerapkan teknik manipulasi DOM dan web storage
+# Belajar Fundamental Front-End Web Development
+aplikasi perkiraan cuaca dengan menerapkan standar ES6, terdapat penerapan Web Component, menggunakan Webpack, dan menampilkan data dari API.
